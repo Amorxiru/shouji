@@ -2,7 +2,7 @@
 * @Author: 55049
 * @Date:   2018-01-24 13:35:17
 * @Last Modified by:   55049
-* @Last Modified time: 2018-01-25 09:02:00
+* @Last Modified time: 2018-02-02 17:41:58
 */
 .lunkuo{
 	width: 182px;
@@ -36,6 +36,10 @@
 	float: left;
 	margin-left: -39px;
 	margin-top: 17px;
+}
+.pinglogo{
+	width: 50px;
+	height: 50px;
 }
 .xitiaotiao{
 	width: 30px;
