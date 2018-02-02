@@ -1,0 +1,156 @@
+/*
+* @Author: 55049
+* @Date:   2018-01-24 13:35:17
+* @Last Modified by:   55049
+* @Last Modified time: 2018-01-25 09:02:00
+*/
+.lunkuo{
+	width: 182px;
+	height: 375px;
+	border-radius: 25px;
+	background: #f7f8fa;
+	border: 2px solid #e8d6d6;
+	float: left;
+	margin-right: 20px;
+}
+.delao{
+	width: 182px;
+	height: 43px;
+	background: #fffdff;
+	border-radius: 55px;
+}
+.tiaoshangyuan{
+	width: 4px;
+	height: 4px;
+	border-radius: 50%;
+	background: black;
+	float: left;
+	margin-top: 6px;
+	margin-left: 89px;
+}
+.tiaozuoyuan{
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background: black;
+	float: left;
+	margin-left: -39px;
+	margin-top: 17px;
+}
+.xitiaotiao{
+	width: 30px;
+	height: 4px;
+	background: black;
+	border-radius: 2px;
+	float: left;
+	margin-top: 18px;
+	margin-left: -17px;
+}
+.mid{
+	width: 158px;
+	height: 283px;
+	background: white;
+	float: left;
+	margin-left: 12px;
+	border: 2px solid #232323;
+}
+.gedudu{
+	width: 26px;
+	height: 26px;
+	border-radius: 50%;
+    border: 1px solid rgb(200, 167, 0);
+    float: left;
+    margin-left: 78px;
+    margin-top: 5px;
+}
+.shoujihou{
+	width: 181px;
+	height: 376px;
+	background: #fdfffa;
+	border-radius: 35px;
+	border:2px solid #e8d6d6;
+	float: left;
+}
+.shang{
+	width: 166px;
+	height: 25px;
+	background: #fbd9d7;
+	border-top-left-radius: 35px;
+	border-top-right-radius: 35px;
+	margin: 0 auto;
+	margin-top: 7px;		
+}
+.yuan1{
+	width: 15px;
+	height: 15px;
+	background: #100607;
+	border-radius: 35px;
+	float: left;
+	margin-left:30px; 
+	margin-top:6px;
+}
+.yuan2{
+	width: 7px;
+	height: 7px;
+	background: #100607;
+	border-radius: 35px;
+	float: left;
+	margin-left:8px; 
+	margin-top:10px; 
+}
+.yuan3{
+	width: 12px;
+	height:12px;
+	background: #100607;
+	border-radius: 35px;
+	float: left;
+	margin-left:8px;
+    margin-top:7px; 
+}
+.zhong{
+	width: 180px;
+	height: 296px;
+	background: #FCDAD1;
+	margin: 0 auto;
+	margin-top: 7px;
+}
+.tupian{
+	width: 50px;
+	height:50px;
+	background: #FCDAD1;
+	float: left;
+	margin-top: 40px;
+	margin-left: 65px;
+}
+.zi{
+	width: 65px;
+	height:65px;
+	background: #FCDAD1;
+	font-size: 17px;
+	color: #100607;
+	float: left;
+	margin-top: 130px;
+	margin-left: 60px;
+}
+.S{
+	width: 15px;
+	height:15px;
+	background: #FCDAD1;
+	font-size: 13px;
+	color: #100607;
+	float: left;
+	margin-top: -40px;
+	margin-left: 80px;
+	border:1px solid #000;
+	text-align: center;
+	border-radius: 5px;
+}
+.xia{
+	width: 166px;
+	height: 25px;
+	background: #fbd9d7;
+	border-bottom-left-radius: 35px;
+	border-bottom-right-radius: 35px;
+	margin: 0 auto;
+	margin-top: 7px;
+}
